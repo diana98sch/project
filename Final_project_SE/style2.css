@@ -1,0 +1,11 @@
+.memsmath{
+    -webkit-transform: scale(1,1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+}
+
+.memsmath:hover {
+    -webkit-transform: scale(4.5,4.5);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+}
