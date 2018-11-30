@@ -1,0 +1,20 @@
+<body>
+  <h1>UT Memes</h1>
+  <div id="introduction">
+    <h2>Meme importance</h2>
+    <p>Nowadays the level of happiness on modern society and memes help to increase it a lot.</p>
+    <h3>Creators</h3>
+    <ul>
+      <li>Autors of this wonderful  website: Pavel Kornyshev, Diana Schmidt. All rights reserved.</li>
+    </ul>
+    <h3>Categories</h3>
+    <p>Student residence</p>
+    <p>Lectures</p>
+    <p>Practics</p>
+    <p>Teachers</p></p>
+  </div>
+  <div id="media">
+    <h2>First meme</h2>
+    <img src="https://psv4.userapi.com/c848432/u44462337/docs/d9/99fe4fcbd206/bSk46oy.jpg?extra=tW_gNr2HVe__j6vb74CdHQgE2dHthZVAXy_Gcpgl4EGKl1QMCGL0jZWfOEhslSoh8R22Q3KnG5XasZJmLqlJgx7T0Hjxo2spfB0VFaSmiOsT4aTxeTTZ2qmxpt_9zgPsscqp0GozJt6YDY4wyoeJhOg" alt="first meme"/>
+  </div>
+</body>
