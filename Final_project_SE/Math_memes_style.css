@@ -1,0 +1,32 @@
+#mathmeme1, #mathmeme2, #mathmeme3, #mathmeme4, #mathmeme5 {
+    -webkit-transform: scale(0.9,0.9);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+}
+
+#mathmeme1:hover, #mathmeme2:hover, #mathmeme3:hover, #mathmeme4:hover, #mathmeme5:hover{
+    -webkit-transform: scale(4.5,4.5);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+}
+
+body{
+	background: url(fon2.jpg) no-repeat center center fixed;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h2{
+	text-align:center;
+	color:#003559;
+	font-size:40px;
+}
+
+#mathmeme1, #mathmeme2, #mathmeme3, #mathmeme4, #mathmeme5 {
+	margin-left: 180px; 
+	margin-top: 110px;
+	height: 120px;
+	width: 100px;
+}

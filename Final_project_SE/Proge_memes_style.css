@@ -1,0 +1,32 @@
+#progmeme1, #progmeme2, #progmeme3, #progmeme4, #progmeme5{
+    -webkit-transform: scale(0.9,0.9);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+}
+
+#progmeme1:hover, #progmeme2:hover, #progmeme3:hover, #progmeme4:hover, #progmeme5:hover{
+    -webkit-transform: scale(4.5,4.5);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 550ms;
+}
+
+body{
+	background: url(fon2.jpg) no-repeat center center fixed;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h2{
+	text-align:center;
+	color:#003559;
+	font-size:40px;
+}
+
+#progmeme1, #progmeme2, #progmeme3, #progmeme4, #progmeme5 {
+	margin-left: 170px; 
+	margin-top: 110px;
+	height: 120px;
+	width: 100px;
+}
